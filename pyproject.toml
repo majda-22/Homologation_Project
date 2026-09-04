@@ -1,0 +1,11 @@
+[project]
+name = "r116-platform"
+version = "0.1.0"
+description = "Plateforme de gestion et visualisation de l'activité d'homologation des maquettes R116 (Stage PFA - Capgemini / ENSET Mohammedia)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+# Permet `import app...` depuis les tests sans installation du package
+# ni manipulation manuelle de sys.path.
+pythonpath = ["."]
+testpaths = ["tests"]

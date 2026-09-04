@@ -1,0 +1,36 @@
+# --- Environnement virtuel ---
+venv/
+.venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Données locales (jamais versionnées) ---
+data/*.db
+data/*.sqlite3
+
+# --- Modèles ML entraînés (volumineux, régénérables) ---
+ml_models/*.pkl
+ml_models/*.joblib
+
+# --- Rapports générés ---
+
+# --- Config locale / secrets ---
+.env
+
+# --- Packaging PyInstaller ---
+build/
+dist/
+
+# --- Éditeurs / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

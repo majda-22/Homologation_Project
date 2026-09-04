@@ -1,0 +1,9 @@
+2026-08-30 19:28:06 | INFO     | __main__ | Demarrage de R116 Platform (env=development)
+2026-08-30 19:28:06 | INFO     | __main__ | Base de donnees : C:\Users\pc\Downloads\r116-platform\R116Platform_package\R116Platform\data\r116.db
+2026-08-30 19:28:06 | INFO     | flet_runtime | Assets path configured: C:\Users\pc\Downloads\r116-platform\R116Platform_package\R116Platform\assets
+2026-08-30 19:28:06 | INFO     | flet_runtime | Starting up TCP server on localhost:60507
+2026-08-30 19:28:06 | INFO     | flet_runtime | Flet app has started...
+2026-08-30 19:28:06 | INFO     | flet_runtime | App URL: tcp://localhost:60507
+2026-08-30 19:28:06 | INFO     | flet_runtime | Starting Flet View app...
+2026-08-30 19:28:06 | INFO     | flet_runtime | Flet View found in: C:\Users\pc\Downloads\r116-platform\R116Platform_package\R116Platform\_internal\flet\bin\flet\flet.exe
+2026-08-30 19:28:07 | INFO     | flet_runtime | App session started
