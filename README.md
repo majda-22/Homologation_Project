@@ -220,14 +220,3 @@ tests/
 data/
 ml_models/
 ```
-
-## Reste a faire
-
-- Verifier avec la source metier le doublon suspect X2/M1/Y8 et X3/M2/Y10 a
-  597 jours.
-- Mettre a jour le rapport Chapitre 8 avec les MAE et le diagnostic gabarit.
-- Ajouter des variables explicatives de retard reel : cause retard, fournisseur
-  responsable, non-conformite, blocage validation, etc.
-- Ajouter des tests UI/end-to-end Flet si necessaire.
-- Durcir les permissions par role dans l'interface.
-- Valider le build PyInstaller sur une machine Windows propre sans Python.
